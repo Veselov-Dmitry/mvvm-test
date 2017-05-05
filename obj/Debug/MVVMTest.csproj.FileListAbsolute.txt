@@ -1,0 +1,13 @@
+D:\MyDocuments\Projects\MVVMTest\bin\Debug\MVVMTest.exe
+D:\MyDocuments\Projects\MVVMTest\bin\Debug\MVVMTest.pdb
+D:\MyDocuments\Projects\MVVMTest\obj\Debug\MVVMTest.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Projects\MVVMTest\obj\Debug\App.g.cs
+D:\MyDocuments\Projects\MVVMTest\obj\Debug\MVVMTest_MarkupCompile.cache
+D:\MyDocuments\Projects\MVVMTest\obj\Debug\MVVMTest_MarkupCompile.lref
+D:\MyDocuments\Projects\MVVMTest\obj\Debug\MVVMTest.g.resources
+D:\MyDocuments\Projects\MVVMTest\obj\Debug\MVVMTest.Properties.Resources.resources
+D:\MyDocuments\Projects\MVVMTest\obj\Debug\MVVMTest.csproj.GenerateResource.Cache
+D:\MyDocuments\Projects\MVVMTest\obj\Debug\MVVMTest.exe
+D:\MyDocuments\Projects\MVVMTest\obj\Debug\MVVMTest.pdb
+D:\MyDocuments\Projects\MVVMTest\obj\Debug\View\MainWindowView.g.cs
+D:\MyDocuments\Projects\MVVMTest\obj\Debug\View\MainWindowView.baml
